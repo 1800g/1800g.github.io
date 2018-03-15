@@ -1,0 +1,13 @@
+title: 1800g个人小站
+author: 1800g
+description: 个人博客.
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+# color_scheme: avocado
